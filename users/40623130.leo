@@ -49,7 +49,7 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20171114231410.1"><vh>W1-W3</vh>
@@ -64,29 +64,62 @@
 </v>
 </v>
 <v t="leo.20171114231101.1"><vh>W4-W6</vh>
-<v t="leo.20171114231125.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20171114231125.1"><vh>W4-W6</vh>
 <v t="leo.20171114231125.2"><vh>w4-w6</vh></v>
 </v>
-<v t="leo.20171114231238.1" a="E"><vh>圖片</vh>
+<v t="leo.20171114231238.1"><vh>圖片</vh>
 <v t="leo.20171114231943.1"><vh>圖</vh></v>
 </v>
 </v>
 <v t="leo.20171114232014.1"><vh>W7-W9</vh>
-<v t="leo.20171114232014.2" a="E"><vh>W7-W9</vh>
+<v t="leo.20171114232014.2"><vh>W7-W9</vh>
 <v t="leo.20171114232014.3"><vh>w7-w9</vh></v>
 </v>
-<v t="leo.20171114232014.4" a="E"><vh>圖片</vh>
+<v t="leo.20171114232014.4"><vh>圖片</vh>
 <v t="leo.20171114232014.5"><vh>圖</vh></v>
 </v>
-<v t="leo.20171115002010.1" a="E"><vh>圖片</vh>
+<v t="leo.20171115002010.1"><vh>圖片</vh>
 <v t="leo.20171115002010.2"><vh>圖</vh></v>
 </v>
-<v t="leo.20171115002056.1" a="E"><vh>圖片</vh>
+<v t="leo.20171115002056.1"><vh>圖片</vh>
 <v t="leo.20171115002056.2"><vh>圖</vh></v>
 </v>
 </v>
 <v t="leo.20171106220145.1"><vh>心得</vh>
 <v t="leo.20171106220145.2"><vh>www</vh></v>
+</v>
+<v t="leo.20180109175437.1"><vh>W10-W12</vh>
+<v t="leo.20180109175437.2"><vh>W10-W12</vh>
+<v t="leo.20180109175437.3"><vh>W10-W12</vh></v>
+</v>
+<v t="leo.20180109211405.1"><vh>Easy 迴圈</vh>
+<v t="leo.20180109211405.2"><vh>W10-W12</vh></v>
+</v>
+<v t="leo.20180109175437.4"><vh>圖片</vh>
+<v t="leo.20180109175437.5"><vh>圖</vh></v>
+</v>
+</v>
+<v t="leo.20180109175506.1"><vh>W13-W15</vh>
+<v t="leo.20180109175506.2" a="E"><vh>W13-W15</vh>
+<v t="leo.20180109175506.3"><vh>W13-W15</vh></v>
+</v>
+<v t="leo.20180109175506.6"><vh>影片</vh>
+<v t="leo.20180109175506.7"><vh>片</vh></v>
+</v>
+<v t="leo.20180109175506.8"><vh>影片</vh>
+<v t="leo.20180109175506.9"><vh>片</vh></v>
+</v>
+</v>
+<v t="leo.20180109175516.1"><vh>W16-W18</vh>
+<v t="leo.20180109175516.2" a="E"><vh>W16-W18</vh>
+<v t="leo.20180109175516.3"><vh>W16-W18</vh></v>
+</v>
+<v t="leo.20180109175516.4"><vh>圖片</vh>
+<v t="leo.20180109175516.5"><vh>圖</vh></v>
+</v>
+</v>
+<v t="leo.20180109175523.1"><vh>心得</vh>
+<v t="leo.20180109175523.2"><vh>www</vh></v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
 <v t="leo.20170911090822.2"><vh>Win 64 位元專用</vh></v>
@@ -164,6 +197,7 @@
 <v t="leo.20171129235016.1"><vh>@edit 20171123.md</vh></v>
 <v t="leo.20171228085752.1"><vh>@edit 20171130.md</vh></v>
 <v t="leo.20171228085753.1"><vh>@edit 20171207.md</vh></v>
+<v t="leo.20180109220432.1"><vh>@edit 20180109.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -513,7 +547,7 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20171114231125.2">#w4-w6
+<t tx="leo.20171114231125.2">##w4-w6
 
 * 用python程式語言在leo更改與新增網誌,上傳近端及遠端
 * 學到如何架設一個屬於自己的Blog
@@ -535,7 +569,7 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20171114231410.3">#期中w1-w3
+<t tx="leo.20171114231410.3">##期中w1-w3
 
 * 了解課程目的、內容與之後的學習目標
 * 學習到如何開啟倉儲以及利用ShareX拍影片
@@ -576,7 +610,7 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20171114232014.3">#w7-w9
+<t tx="leo.20171114232014.3">##w7-w9
 
 * 錄製影片並放入網誌裡
 * 學到Eric6的基本應用
@@ -611,7 +645,7 @@ g.es("admin pelican Github 執行完畢")
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171115002010.2">#上傳網誌之類的
+<t tx="leo.20171115002010.2">##上傳網誌之類的
 &lt;iframe src="https://player.vimeo.com/video/239930271" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/239930271"&gt;40623130-w7-exam&lt;/a&gt; from &lt;a href="https://vimeo.com/user73300929"&gt;a23654798&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20171115002056.1">&lt;section data-markdown&gt;
@@ -623,6 +657,143 @@ g.es("admin pelican Github 執行完畢")
 
 &lt;iframe src="https://player.vimeo.com/video/241365468" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/241365468"&gt;2017-11-05_13-44-36&lt;/a&gt; from &lt;a href="https://vimeo.com/user73300929"&gt;a23654798&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20180109175437.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180109175437.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180109175437.3">##w10-w12
+
+* 續期中考前的課程,繼續製作機算機,了解如何設定 Dialog, pressButton 與 lineEdit 物件的尺寸大小, 了解如何命名物件, 了解如何設定 clicked 與 connect 方法,並測試能否能使用加減乘除.
+* 開始接觸Github並與同組的協同一個Project
+* 客製化可攜環境:使用者可以配合需求修改 start.bat, stop.bat 以及 launchLeo.py, 讓系統啟動時, 自行建立進入特定目錄的命令列視窗, 並且自動開啟特定 Leo Editor 專案.
+* 利用PyQt5 寫出簡單的迴圈:run.py
+* 簡單介紹LaieX、Gimp 與 dia portable</t>
+<t tx="leo.20180109175437.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109175437.5">##筆記~
+
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%281%29.jpg?name=37bb189a6329b7913f71728882b995697f0b0a3ddac2768c44a45e918e5c4f01"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%281%29.jpg?name=37bb189a6329b7913f71728882b995697f0b0a3ddac2768c44a45e918e5c4f01" width="250" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%282%29.jpg?name=9ce3425f7be32bc27641a174b0cfb02ea4ed6f60dbbe4cc8a4c0f3e70ae7eacc"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%282%29.jpg?name=9ce3425f7be32bc27641a174b0cfb02ea4ed6f60dbbe4cc8a4c0f3e70ae7eacc" width="250" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%283%29.jpg?name=d6946df3777e445a05fa70ff96fbb9c2aea068a0b8a302711f9590d1d1d2e115"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%283%29.jpg?name=d6946df3777e445a05fa70ff96fbb9c2aea068a0b8a302711f9590d1d1d2e115" width="250" height="200"&gt;&lt;/a&gt;
+
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%284%29.jpg?name=27082f2d287c7f4cbd309e4f47cb1608a1338d77959f7c494e351c6b49edf719"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%284%29.jpg?name=27082f2d287c7f4cbd309e4f47cb1608a1338d77959f7c494e351c6b49edf719" width="250" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%285%29.jpg?name=65e814ddfed7eb04f41a2b2d8391931f4a5e7a9456f3b284acd9ca79c99f8887"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%285%29.jpg?name=65e814ddfed7eb04f41a2b2d8391931f4a5e7a9456f3b284acd9ca79c99f8887" width="250" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%286%29.jpg?name=e31aeaf6e19b148070c72d7d12af0719c36530d7047a86236a439da0b862949f"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%286%29.jpg?name=e31aeaf6e19b148070c72d7d12af0719c36530d7047a86236a439da0b862949f" width="250" height="200"&gt;&lt;/a&gt;
+&lt;a href="https://cpa.kmol.info/40623130/raw/Note+down%287%29.jpg?name=41c240323cb17280ede24b4276acca2cf45a8ffa43a74cb02c7b342e8276b14b"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/Note+down%287%29.jpg?name=41c240323cb17280ede24b4276acca2cf45a8ffa43a74cb02c7b342e8276b14b" width="250" height="200"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180109175506.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180109175506.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180109175506.3">##w13-w15-github指令: 
+
+* git pull同步線上資料
+* git branch檢查分支
+* git add . 新增
+* git status 檢查狀態
+* 沒有身分會無法上傳
+      git confing --global user.email "信箱"
+      git confing --global user.name "學號"
+* git log 看版本+更新次數等等
+* git chechout 版本碼 
+* git commit -m "~更新名~"上傳--上者為近端,以下為遠端
+* git push 推送</t>
+<t tx="leo.20180109175506.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109175506.7">##Calculator-Make
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/412_UGUQQgc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180109175506.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109175506.9">##Calculator-Acceptance Check
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/2yi1sq76zak" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180109175516.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180109175516.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180109175516.3">##w16-w18
+
+* 協同完成計算機程式
+* 分組的期末報告製作-利用LEO轉PDF</t>
+<t tx="leo.20180109175516.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109175516.5">##圖
+
+點圖放大
+
+&lt;a href="https://cpa.kmol.info/40623130/raw/chrome_2018-01-09_17-40-26.png?name=1072cba46a16c6d5fc7115498d022429218b3e9988222b05a3d788b707ead22c"&gt;&lt;img src="https://cpa.kmol.info/40623130/raw/chrome_2018-01-09_17-40-26.png?name=1072cba46a16c6d5fc7115498d022429218b3e9988222b05a3d788b707ead22c" width="250" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20180109175523.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180109175523.2">##期末心得
+
+* 這學期過得很快,一開始老師說要我們在期末能會做出計算機時,很難想像能完成,當我們小組完成並測試成功後,感受到的是滿滿的成就感,而在這門課中學到的不只是要打打指令而是去理解其指令的意義,這樣才是真正學到,在之後其他的課程中也能更快的學習,畢竟之後還有一年級下學期的網際內容管理和之後二三年級的課程。這門課不會一直很枯萎乏燥有時還會聊聊天說說學校的事或是系花系草之類的。希望之後能更加努力!
+* 自評分數
+      出席 20%：20
+      
+      平時表現 30%：23
+      
+      驗收考試 30%：24
+      
+      驗收簡報 20%：16
+      
+      總評：83分</t>
+<t tx="leo.20180109211405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180109211405.2">##迴圈
+        迴圈.number = [self.one.....]
+ 
+        for i in number;
+            i.clicked.connect(self.digitClicked)</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -798,6 +969,7 @@ vertical: body pane on the botton</t>
 
 
 [BLOG](blog/index.html)
+[Github](https://github.com/40623130)
 
 
 </t>
